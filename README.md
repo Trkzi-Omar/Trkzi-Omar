@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 -->
 - 📫 Where to email me: trkzi.omar@protonmail.com
 - 🔗 Where else you can find me: 
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="18"> stackoverflow: [@omar-trkzi](https://stackoverflow.com/users/15553442/omar-trkzi)
-  - <img src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg" width="18"> twitter: [@OmarTrkzi](https://twitter.com/OmarTrkzi)
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" width="18"> medium: [@TRKZI-Omar](https://medium.com/@TRKZI-Omar)
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="18"> Stackoverflow: [@omar-trkzi](https://stackoverflow.com/users/15553442/omar-trkzi)
+  - <img src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg" width="18"> Twitter: [@OmarTrkzi](https://twitter.com/OmarTrkzi)
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" width="18"> Medium: [@TRKZI-Omar](https://medium.com/@TRKZI-Omar)
 <!--- 
 - ⚡ Fun fact: ...
 -->
