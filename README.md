@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on a Symfony 5.4 project.
+- 🔭 I’ve previously worked on a Symfony 5.4 full stack application.
 - 🌱 I’m currently learning ReactJS and different DevOps tools.
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
