@@ -1,5 +1,6 @@
-### Hi there, I'm Omar Trkzi 👋
-
+<h1 align="center">Hi there 👋, I'm Omar Trkzi</h1>
+<h3 align="center">A front-end web developer</h3>
+<br/>
 <!--
 **Trkzi-Omar/Trkzi-Omar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
