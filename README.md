@@ -1,16 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Omar Trkzi</h1>
-<h3 align="center">A front-end web developer</h3>
+<h3 align="center">A front-end web developer ⚛️</h3>
 <br/>
-<!--
-**Trkzi-Omar/Trkzi-Omar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
-- 🔭 I’ve previously worked on a Symfony 5.4 full stack application.
-- 🌱 I’m currently learning ReactJS and different DevOps tools. 
-<!--- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...-->
 - 📫 Where to email me: trkzi.omar@protonmail.com
 - 🔗 Where else you can find me: 
   - <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="18"> Stackoverflow: [@omar-trkzi](https://stackoverflow.com/users/15553442/omar-trkzi)
