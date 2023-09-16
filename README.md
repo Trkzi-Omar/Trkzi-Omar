@@ -4,9 +4,9 @@
 
 - 📫 For business inquiries: trkzi.omar@protonmail.com
 - 🔗 Where else you can find me: 
-   - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="18"> LinkedIn: [@TRKZI-Omar](https://www.linkedin.com/in/trkzi-omar/)
-   - <img src="[https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Twitter_X.png/640px-Twitter_X.png)" width="18"> X: [@OmarTrkzi](https://twitter.com/OmarTrkzi)
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" width="18"> Medium: [@TRKZI-Omar](https://medium.com/@TRKZI-Omar)
+   - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="in" width="18"> LinkedIn: [@TRKZI-Omar](https://www.linkedin.com/in/trkzi-omar/)
+   - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Twitter-new-logo.jpg/640px-Twitter-new-logo.jpg" alt="X" width="18"> X (twitter): [@OmarTrkzi](https://twitter.com/OmarTrkzi)
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="M" width="18"> Medium: [@TRKZI-Omar](https://medium.com/@TRKZI-Omar)
   - <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="18"> Stackoverflow: [@omar-trkzi](https://stackoverflow.com/users/15553442/omar-trkzi)
 
 
