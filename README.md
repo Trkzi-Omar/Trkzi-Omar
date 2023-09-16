@@ -9,5 +9,6 @@
   - <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="M" width="18"> Medium: [@TRKZI-Omar](https://medium.com/@TRKZI-Omar)
   - <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="18"> Stackoverflow: [@omar-trkzi](https://stackoverflow.com/users/15553442/omar-trkzi)
 
+Would you like to know more about me ? Check [Who Am I]("https://www.devfit.me/whoami") 😄
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Trkzi-Omar&color=1520a6)
