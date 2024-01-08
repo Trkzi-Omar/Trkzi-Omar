@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Omar Trkzi</h1>
-<h3 align="center">A front-end web developer ⚛️</h3>
+<h3 align="center">A front-end web developer (React ⚛️)</h3>
 <br/>
 
 - 📫 For business inquiries: trkzi.omar@protonmail.com
@@ -11,4 +11,4 @@
 
 ### Would you like to know more about me ? Check [WhoAmI](https://www.devfit.me/whoami) 👀
 
-![Profile Views](https://komarev.com/ghpvc/?username=Trkzi-Omar&color=1520a6)
+![Profile Views](https://komarev.com/ghpvc/?username=Trkzi-Omar&color=1520a6&abbreviated=true)
