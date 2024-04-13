@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Omar Trkzi</h1>
-<h3 align="center">A front-end web developer (React ⚛️)</h3>
+<h3 align="center">Front-end web developer (React ⚛️)</h3>
 <br/>
 
 - 📫 For business inquiries: trkzi.omar@protonmail.com
