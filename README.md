@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Omar Trkzi</h1>
-<h3 align="center">Front-end web developer (React ⚛️)</h3>
+<h3 align="center">Fullstack web engineer (React ⚛️ / Express <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="in" height="18">    )</h3>
 <br/>
 
 - 📫 For business inquiries: trkzi.omar@protonmail.com
@@ -10,6 +10,5 @@
   - <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="M" width="18"> Medium: [@TRKZI-Omar](https://medium.com/@TRKZI-Omar)
   - <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="18"> Stackoverflow: [@omar-trkzi](https://stackoverflow.com/users/15553442/omar-trkzi)
 
-### Would you like to know more about me ? Check [WhoAmI](https://www.devfit.me/whoami) 👀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Trkzi-Omar&color=1520a6&abbreviated=true)
