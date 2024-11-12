@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Omar Trkzi</h1>
-<h3 align="center">Fullstack web engineer (React ⚛️ / Express <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="in" height="18">)</h3>
+<h3 align="center">Fullstack web engineer (React ⚛️ / Express <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="in" width="18">)</h3>
 <br/>
 
 - 📫 For business inquiries:
