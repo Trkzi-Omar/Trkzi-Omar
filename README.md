@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Omar Trkzi</h1>
-<h3 align="center">Fullstack engineer (React ⚛️ / Node / Typescript <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TS" width="18">)</h3>
+<h3 align="center">
+    Software Engineer | React.js ⚛️ | Typescript <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TS" width="18"> | Next.js | Certified Meta 
+</h3>
 <br/>
 
 - 📫 For business inquiries:
@@ -12,7 +14,7 @@
   - <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="18"> Stackoverflow: [@omar-trkzi](https://stackoverflow.com/users/15553442/omar-trkzi)
    - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Twitter-new-logo.jpg/640px-Twitter-new-logo.jpg" alt="X" width="18"> X (twitter): [@OmarTrkzi](https://twitter.com/OmarTrkzi)
   - <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="M" width="18"> Medium: [@TRKZI-Omar](https://medium.com/@TRKZI-Omar)
-  - <img src="https://www.devfit.me/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDevFit_%20colored.fd78027c.png&amp;w=3840&amp;q=75" alt="https://www.devfit.me/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDevFit_%20colored.fd78027c.png&amp;w=3840&amp;q=75" width="18" height="18" class="shrinkToFit transparent"/> Blogs: [devfit.me/blogs](https://www.devfit.me/blogs)
+  - <img src="https://www.omartrkzi.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDevFit_%20colored.fd78027c.png&amp;w=3840&amp;q=75" alt="https://www.omartrkzi.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDevFit_%20colored.fd78027c.png&amp;w=3840&amp;q=75" width="18" height="18" class="shrinkToFit transparent"/> Blogs: [omartrkzi.com/blogs](https://www.omartrkzi.com/blogs)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Trkzi-Omar&color=1520a6&abbreviated=true)
