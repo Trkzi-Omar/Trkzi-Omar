@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Omar Trkzi</h1>
 <h3 align="center">
-    Software & AI Engineer | React.js ⚛️ | LangChain 🦜 | Typescript <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TS" width="18"> | Certified Meta ∞
+    Software & AI Engineer | React.js ⚛️ | LangChain 🦜 | Typescript <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TS" width="18"> | Certified UX from Meta ∞
 </h3>
 <br/>
 
